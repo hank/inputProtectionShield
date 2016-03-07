@@ -9,4 +9,4 @@ These hardware capabilities inclue
 
 
 
-![](http://i.imgur.com/EKaz8NS.png)
+![](https://i.imgur.com/ickDpuU.png)
